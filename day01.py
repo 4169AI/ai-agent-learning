@@ -1,1 +1,1 @@
-print('今天开始学习 Git 和 Python')
+print('尝试推送 Git 和 Python')
